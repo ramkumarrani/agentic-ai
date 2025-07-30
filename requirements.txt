@@ -1,0 +1,9 @@
+streamlit
+langchain
+langgraph
+langchain-mcp-adapters
+mcp
+langchain-openai
+langchain-core 
+langchain-text-splitters
+langchain-community
